@@ -7,6 +7,6 @@ This project demonstrates skills in data cleaning, KPI design, visualization, an
 # Data Source
 [Access the dataset here](https://docs.google.com/spreadsheets/d/1hFFm8MR0_ZeVRlE7Qq1od8wv52YBn_kL/edit?usp=sharing&ouid=109374204462090748791&rtpof=true&sd=true)
 # Dashboard
-[Employee Workforce Dashbord](<img width="1341" height="675" alt="Employee Workforce Dashboard-" src="https://github.com/user-attachments/assets/9cc46076-f74e-41e9-aa53-da327c3530eb" />
+[Employee Workforce Dashbord]<img width="1341" height="675" alt="Employee Workforce Dashboard-" src="https://github.com/user-attachments/assets/9cc46076-f74e-41e9-aa53-da327c3530eb" />
 
 
