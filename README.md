@@ -1,5 +1,6 @@
 # Employee Workforce Analysis
 Employee Workforce Analysis built in Excel &amp; Power BI to analyze workforce demographics, tenure, and exit trends. Highlights KPIs like total staff, active vs inactive, tenure, and exit rates. Interactive filters by department, gender, and unit provide insights to improve retention, diversity, and workforce planning.
+## [Download the Dashboard](https://drive.google.com/drive/folders/11tvU6TIJrXrv0DAabEzyWOCQdgyV2bPr)
 # Overview
 Employee Workforce Analysis is an HR analytics project built in Excel and Power BI to visualize workforce demographics, departmental distribution, tenure, and exit trends. The dashboard highlights key KPIs such as total employees, active vs inactive staff, average tenure, and exit rates. Interactive features allow filtering by department, gender, and business unit, making it easy to explore workforce dynamics.
 
