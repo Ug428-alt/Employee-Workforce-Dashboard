@@ -34,3 +34,23 @@ Which age groups and departments have the highest exit rates?
 
 Is there any gender imbalance in exits across departments?
 
+
+## Insights
+**Retention Strength**: High average tenure across all units suggests strong retention.
+
+**Exit Risk Zone:** Males aged 41–50 show elevated exit rates — possible burnout or lack of career progression.
+
+**Gender Balance:** Workforce is fairly balanced, but exit patterns vary by department.
+
+**Compensation Clarity:** Top earners are spread across departments, indicating fair pay distribution.
+
+
+## Recommendations
+Targeted Retention Strategy: Investigate reasons behind exits in the 41–50 male age group and offer career development or wellness programs.
+
+Departmental Review: Departments with high exits (e.g., Accounting, Engineering) may need engagement surveys or leadership reviews.
+
+Diversity Monitoring: Continue tracking gender distribution and exits to ensure equity.
+
+Succession Planning: Use tenure and age data to identify upcoming retirements and prepare replacements.
+
