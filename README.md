@@ -19,5 +19,18 @@ View Dashboard Screenshot
 <img width="347" height="330" alt="Employee Age Distribution" src="https://github.com/user-attachments/assets/00eea29a-be56-4bfe-b806-d1b1757e7a23" />
 <img width="363" height="400" alt="Top 10 Highest Paid Employees" src="https://github.com/user-attachments/assets/48656340-a21a-4d40-a45a-bcf8ee2815cd" />
 <img width="1863" height="646" alt="Screenshot 2025-12-25 202326" src="https://github.com/user-attachments/assets/1bad814d-a541-4fff-98e6-43362fb0d2ea" />
+## Key Business Questions
+What is the current size and status of the workforce?
 
+Which departments or business units have the highest employee counts?
+
+Who are the top 10 highest-paid employees?
+
+What is the distribution of employees by age group and gender?
+
+What is the average tenure by gender and business unit?
+
+Which age groups and departments have the highest exit rates?
+
+Is there any gender imbalance in exits across departments?
 
