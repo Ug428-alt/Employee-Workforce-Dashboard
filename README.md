@@ -16,6 +16,7 @@ Employee Workforce Dashbord<img width="1341" height="675" alt="Employee Workforc
 View Dashboard Screenshot
 <img width="1711" height="620" alt="Screenshot 2025-12-25 202306" src="https://github.com/user-attachments/assets/d86d5cec-280a-4c5b-b2bd-79045c325f64" />
 <img width="377" height="322" alt="Exit Count by Gender" src="https://github.com/user-attachments/assets/3338689a-57c4-42e3-b2ae-e90f7218da1b" />
-<img width="1863" height="646" alt="Screenshot 2025-12-25 202326" src="https://github.com/user-attachments/assets/1bad814d-a541-4fff-98e6-43362fb0d2ea" />
 <img width="385" height="323" alt="exit trends" src="https://github.com/user-attachments/assets/46662081-0170-4fd2-b7da-f397a5d28564" />
+<img width="1863" height="646" alt="Screenshot 2025-12-25 202326" src="https://github.com/user-attachments/assets/1bad814d-a541-4fff-98e6-43362fb0d2ea" />
+
 
