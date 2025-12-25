@@ -11,8 +11,8 @@ This project demonstrates skills in data cleaning, KPI design, visualization, an
 Employee Workforce Dashbord<img width="1341" height="675" alt="Employee Workforce Dashboard-" src="https://github.com/user-attachments/assets/9cc46076-f74e-41e9-aa53-da327c3530eb" />
 ## [Download the Dashboard](https://drive.google.com/drive/folders/11tvU6TIJrXrv0DAabEzyWOCQdgyV2bPr)
 View Dashboard Screenshot
-![Dashboard Overview](Screenshots/overview.png) 
-![Department Analysis](Screenshots/department.png) 
-![Exit Trends](Screenshots/exits.png)
-[View Dashboard Screenshot](Pivot tables.png)
+![Dashboard Overview]<img width="1244" height="669" alt="dashboard_overview" src="https://github.com/user-attachments/assets/f5e8abbf-3e8b-4f3e-92fc-b9b96d55b178" />
+
+![Department Analysis]<img width="292" height="311" alt="Employee Count by Department" src="https://github.com/user-attachments/assets/9d938d9b-ab1d-40a6-a10d-8b34c84664e9" />
+![Exit Trends]<img width="385" height="323" alt="exit trends" src="https://github.com/user-attachments/assets/46662081-0170-4fd2-b7da-f397a5d28564" />
 
