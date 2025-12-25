@@ -43,7 +43,6 @@ Is there any gender imbalance in exits across departments?
 |Largest Departments| IT (187), Engineering (123), Accounting (104)|
 |Age Distribution|Most employees are 41–60 years old; males dominate 60+ group|
 |Avg Tenure by Gender|Females: 11.5–14.4 years; Males: 12.6–14.9 years depending on unit|
-
 |Highest Exit Age Group|Males aged 41–50 have the highest exit count|
 | Highest Paid Employee| Raelynn Rios ($258,498)|
 |Gender Exit Imbalance|Engineering and IT show near-equal exits; Accounting has more female exits|
