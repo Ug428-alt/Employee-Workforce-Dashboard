@@ -35,6 +35,18 @@ Which age groups and departments have the highest exit rates?
 Is there any gender imbalance in exits across departments?
 
 
+| Question | Answer | 
+|----------------------|--------------|
+| Total Employees | 991 |
+| Active Employees | 759 (77%) | Currently employed | 
+| Inactive Employees | 232 (23%) | Exited or retired | 
+|Largest Departments| IT (187), Engineering (123), Accounting (104)|
+|Age Distribution|Most employees are 41–60 years old; males dominate 60+ group||
+|Highest Exit Age Group|Males aged 41–50 have the highest exit count|
+| Highest Paid Employee| Raelynn Rios ($258,498)|
+|Gender Exit Imbalance|Engineering and IT show near-equal exits; Accounting has more female exits|
+
+
 ## Insights
 **Retention Strength**: High average tenure across all units suggests strong retention.
 
